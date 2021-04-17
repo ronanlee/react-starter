@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React from wt
+          Learn React from wang teng
 
         </a>
       </header>
